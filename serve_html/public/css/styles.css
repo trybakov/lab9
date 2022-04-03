@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    border: 3px solid black;
+    height: 400px;
+}
+
+.all {
+    text-align: center;
+    border: 3px solid black;
+}
+button {
+    background-color: lightgray;
+    border: 3px solid black;
+    color: black;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+.images {
+    margin-top: 80px;
+}
+.image {
+    text-align: center;
+    width: 800px;
+    height: 800px;
+}

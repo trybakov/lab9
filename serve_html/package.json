@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "name": "serve_html",
+  "version": "1.0.0",
+  "description": "lab9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trybakov/lab9.git"
+  },
+  "author": "Tony Rybakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trybakov/lab9/issues"
+  },
+  "homepage": "https://github.com/trybakov/lab9#readme"
+}
